@@ -14,6 +14,12 @@
       "category": "social",
       "versions": [
         {
+          "version": "263.0",
+          "date": "2025-04-04",
+          "size": 89061224,
+          "downloadURL": "https://github.com/hmalhotra-labs/unbound-ios/releases/download/v263.0/Unbound.ipa"
+        },
+        {
           "version": "272.0",
           "date": "2025-03-26",
           "size": 88138834,
